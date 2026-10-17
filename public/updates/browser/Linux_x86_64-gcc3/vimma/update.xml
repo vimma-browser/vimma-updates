@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<updates vimmaChannel="vimma" vimmaTarget="Linux_x86_64-gcc3" vimmaSerial="20261017042448">
+  <update type="minor" appVersion="158.0" platformVersion="158.0" buildID="20261016182405" displayVersion="0.1.2" detailsURL="https://github.com/vimma-browser/vimma/releases/tag/v0.1.2" vimmaUrgency="security">
+    <vimmaTarball size="86808288" hashFunction="sha512" hashValue="f37e1ca222172d5cc03f3f7f11120d42d1a00802c5b35560d328c41b79f45496972712ce58be03b74c6f013bce4a22567c871152fd513c50017c264f1f375550" URL="https://github.com/vimma-browser/vimma/releases/download/v0.1.2/vimma-0.1.2-linux-x86_64.tar.xz"/>
+    <vimmaAppImage size="111966712" hashFunction="sha512" hashValue="832609b0cbb02a073083f0081cc6e49a90c71ca14e82604a7b7a1f8fe598c761af44a16b0ca862bd29d160a5890736b0ead8628b4997da9dc6cdc6f8e451f9ec" URL="https://github.com/vimma-browser/vimma/releases/download/v0.1.2/vimma-0.1.2-x86_64.AppImage"/>
+    <vimmaDeb size="87730324" hashFunction="sha512" hashValue="ef12026f520c3d4c004bd2a3d934948de36e277aa8d630ade2cfb10b0c5fa5388ede7a92b75ced09dd6077b30efb6ca8c35bb28cfb5bfec4f7645869faafec46" URL="https://github.com/vimma-browser/vimma/releases/download/v0.1.2/vimma_0.1.2_amd64.deb"/>
+  </update>
+</updates>
+<!-- vimma-signature v1 key=fb4d33b6 sig=FVQqIMFsQjd+55VK9SsU/gDqAXp75oTUXodu+a1/DQkShKKzyoxke8f6IuB0Y1qI0VeuqVK6Cy3WmhUDPbGhtpK1jH3DzveEE1F2v7t8oH8TkaPhIIl9vAMW3Ky1CBda176oael4vdTfBa1jVe34rummTrJ4jwvIMsWdt6A6+71/c5MYD8vhFw+sbRW1XBTGIXsWdJwJ9E7tQYieURy62TLnVKwhHcK17ps+vmpQkaxDKpmNx7KrpOOGu0mbvmJO5esI1+Jt3ZYbQNN3F9SnvBypPs/Ig195cJ5eqeWg0EkdsTNQtojjyCz/R5vMiSDD07PLTdouC+Uuzt395YoI0Iv/bkcl81fslbbORRFldiCRq1Qbj4TlK1ZGZcGVnRHZJXtz/jI7TnEb6O5fVKmgL/6w/B8QA7fXyTOSrXm6Pd7wtx7niVjvfFr9V622lwyu54l8aSY9ivnJ7NGUyUVXL+V2Nf/AY6uJYMKdAkyRJAxqZR7pPBMFrWw7yaWj/VE3Cgzj+s9UO0eh/pNUbZWCGEnNrnNI7rz8doSLoVlBjE2YaT0Tfd0uQ673OP7h1q+bXU7afRp72hyihUi9PDVKs40MtjLSafDpY8b6WaugWOd6PKioMVrkkHP+G7ugIjSVw9U7nA+Isiy/ALzs4igU8DuoNBnR7CJY08YdgePdqUI= -->
