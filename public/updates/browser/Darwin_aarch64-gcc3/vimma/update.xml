@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<updates vimmaChannel="vimma" vimmaTarget="Darwin_aarch64-gcc3" vimmaSerial="20261022145431">
+  <update type="minor" appVersion="158.0.1" platformVersion="158.0.1" buildID="20261022124626" displayVersion="0.1.7" detailsURL="https://github.com/vimma-browser/vimma/releases/tag/v0.1.7" vimmaUrgency="security" vimmaAdvisories="MFSA 2026-111">
+    <vimmaDmg size="110928419" hashFunction="sha512" hashValue="7daa7d031ade94ee20dbf7fe800ad9ac891ff00bd799df62552cd436bc3fd78f3e936972328191d6588ee2f0a85d0eca283fdce8217104ab321b9ee6c0fe18dc" URL="https://github.com/vimma-browser/vimma/releases/download/v0.1.7/vimma-0.1.7-macos-aarch64.dmg"/>
+  </update>
+</updates>
+<!-- vimma-signature v1 key=fb4d33b6 sig=FublLaMLzfq0VRu2XRSKswuex0dzs9LuEvWbv/pA9lQ9KyM2+FxPklF+GOiKb/dtJSJL2VJ2pfKg8vhSzErbKv0S2cR3Byv6O8ScZA/e/cZTwNMNy6Na9td0jp2x3N93f/d0CHGwsv0LD23x0K+6eEyKfNnntdVoWUB63/YzMEYwIqlD8qqeAJOerj0vDPNfDhXzgmHTkYZA1D1wwA8aOYn2VpYPVtFyk2a+m4aRuACAzT5eNBDE5uF0gO4h3iZ6e/L17olCBZg5wrt1V+QpU1gnFKgYyoCyTgSQ9ZhqQ226K9oUnMDp3EakTkGhXZi60q3xVAL1JmdjhFtqjCU+boZSi35L2YGqT/q0gf1B8zzlOs+1A5H0PHm2LY6oL+ecA2Pjlp+B/JfaQ04jcNnyGVINc8v4wwidd5+etqcHiCIpTXGEbXF9sV0ImGQvJqv5zN/BGtK9je9D0ZLi6+6Rh4HRxroVSPG6gHM6TvM3cAfFxvXg8tKi2L+wOQ2hk8gOMjwlP4DPxLwBmtsfcTQ8GftOQfZiSaicXrOUyQGMNg2CH5X8z8mrGZRgjVVBW3Z+DGLCy5syW9TA73ruFbPPAHgCBOf8tGiO7BPTkrtPzuqNWA2SdLfPfazkyqTfELK29uaq9LKZaiToQGKDXCp4A94f2if4e4/VgPERodM71n0= -->
