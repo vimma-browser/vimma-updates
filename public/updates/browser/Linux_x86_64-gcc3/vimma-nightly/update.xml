@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<updates vimmaChannel="vimma-nightly" vimmaTarget="Linux_x86_64-gcc3" vimmaSerial="20261112232826">
+  <update type="minor" appVersion="160.0" platformVersion="160.0" buildID="20261112210736" displayVersion="0.1.18-nightly.20261112210736" detailsURL="https://github.com/vimma-browser/vimma/releases/tag/nightly" vimmaUrgency="normal">
+    <patch type="complete" size="86559868" hashFunction="sha512" hashValue="5265a44b45476d6a281a781bc47dc0ede74c978f6b97dfd5ce921248f4ff8eb2fc5c55b59d4bfce9b5f47f4434f23cf699eecd5a0918980022700109811368c2" URL="https://github.com/vimma-browser/vimma/releases/download/nightly/vimma-nightly-20261112210736-linux-x86_64.complete.mar"/>
+    <vimmaTarball size="87969740" hashFunction="sha512" hashValue="ca7d0bf491a75009926ee8912d2813d299feee6dc7b831e928c0af2685d98a0df795278f4a12ed62a9ce7adefdfc55566d7dbe7eaaafcf95c9d48bc91c3751c5" URL="https://github.com/vimma-browser/vimma/releases/download/nightly/vimma-nightly-20261112210736-linux-x86_64.tar.xz"/>
+  </update>
+</updates>
+<!-- vimma-signature v1 key=fb4d33b6 sig=QUqiSHPwMkgpgjx3IlAFKSofJwnseKSnz18BTA4dCEqQHDhZvw0QdUTtrb5rNqtJEyk3vsGiqyj6hKy+OZft4GbS291vtfo4AQiPDtBsHwaOmh//Fc3Ke3XudCeHonoqrnSWlcn8G+xc5Ose47gFp9SSFCiyibFWivGdF2nsiar5pg4AIXHqdPbHZ3IgftmOdHQwiwnzQegbZaNPTS2qRHgHK9agxdDVorLaorI9NFiXvGBmeqajb8UoZX9F8+Q25AkjF+3tei73ZcIvLENt4kA01l5z0WmGg95NdyiulPByY2Fe8iLgazkeNv1zZYzJ1fRiNmyIgIKT7u9FcICdsaBEZ/09B2AGES6iEo1aWjNEM9Y0RRISx823L3Wo2clmYPhRFewSDHF+zv+6snIOZ2QlT99HOJh0gBfbasO1Nj3gNWKIOtr2NNRsMSKkmrvFz7CVMrLERxbIFyjpJALEiQ3l6Brr3jld/3x994ImYWW2vYB5GKRHiqGg/ai8m6mOopVv+frCCdSwIphVUBUXqTO6KyVhVNs8oFiK2EtW2po5FXGpeMUIrUEWWkzGsPC9G1oF4XUVv3jEWV6cfq0muSXaIeJfmFLvXmGFvdu2goF3LgihgyQGc1KrCs6foZLIxY2UJlZaHkMcJzOLCMeB5HPm/hhNIAGsZF6EZj9/DYA= -->
