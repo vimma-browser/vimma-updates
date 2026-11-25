@@ -1,3 +1,15 @@
 /updates/*
   Cache-Control: no-cache
   X-Content-Type-Options: nosniff
+/apt/*
+  Cache-Control: no-cache
+  X-Content-Type-Options: nosniff
+/rpm/*
+  Cache-Control: no-cache
+  X-Content-Type-Options: nosniff
+/arch/*
+  Cache-Control: no-cache
+  X-Content-Type-Options: nosniff
+/vimma-packages.asc
+  Cache-Control: no-cache
+  X-Content-Type-Options: nosniff

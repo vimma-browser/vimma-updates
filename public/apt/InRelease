@@ -1,0 +1,27 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Architectures: amd64
+Date: Wed, 25 Nov 2026 11:58:50 +0000
+Description: Vimma, a keyboard-first browser
+Label: Vimma
+Origin: Vimma
+SHA256:
+ e4c4c5a5b0412ab785739f101c5bb64622df98b684398a2fa54da41f773bda38             1093 Packages
+ 0dc87dd1e48c76ef74da04ad609fe95062dbe3531ae696ec4d658764c8826537              636 Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+wsFzBAEBCAAdBQJrBs2XFiEEEQZJyyvBFACCjdDUl/09KyStQ5AACgkQl/09KySt
+Q5DrsQ//WOorKBNaZ3kIbrVBHyjuIfVUKFmJ3elJDQ2mArA0oPDAvhNHZtAAecXh
+g4sJbrVrZJDIufcyXAF+l+cXRfaJiEBpt9cn/bkXNx/lcuS4GGEQdW1AstwRIjSp
+Fmzi325yZeBxWd5GtvESWsmUF1yMEl1PrOrAUoTBOi8aiEIAR9fPN1krJzRCnnxh
+3U7X+36W0oaXG1JU8aRBr4R2b8yWV9RcGNJNEMw1F+1KUA8lRGjQmJLcaPnFKsJw
+3w1pqJWsm3GLy8n8fKEQzN+lhtzToUPi55zyJhlXyUYs+bXBsrRjiZE77lPrId8T
+IibDlRGO8Ex3xcKOOtetJ/4uGb9TJ2G09QSaJNoSN7rxHnCUb8agMId3ab1QnFyW
+SiGwM17kfCcoq4jDh8djs8fZ3msQeikPlDebdWklL7W+FT8kRChu4qMHmvHeGwRT
+QrXKGQnvz/2u/eKUjHI8mMd83Meol/TY2lFFNofrzMnaUNXxV9xUndcgUYdMy5uT
+8ecVoJltqM5QHKUzsJtHEvZDLFuoEe4EIXcNydtNSxpIS5J+GsnuqpVVlRaIpnDT
+lPYg244gIwkzxESb4oj8Hlm1SlK7YU0pK+p+ku12Bd0yML/zCF2XdXg+tNHl1LLu
+IaYY15YslaU+Zb12NE7FmdvgilhPl6Dkri4yH6lyUyd0WfNXELw=
+=c4en
+-----END PGP SIGNATURE-----

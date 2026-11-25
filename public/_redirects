@@ -1,0 +1,4 @@
+/apt/pool/v0.1.24/vimma_0.1.24_amd64.deb https://github.com/vimma-browser/vimma/releases/download/v0.1.24/vimma_0.1.24_amd64.deb 302
+/rpm/packages/v0.1.24/vimma-0.1.24-1.x86_64.rpm https://github.com/vimma-browser/vimma/releases/download/v0.1.24/vimma-0.1.24-1.x86_64.rpm 302
+/arch/x86_64/vimma-bin-0.1.24-1-x86_64.pkg.tar.zst https://github.com/vimma-browser/vimma/releases/download/v0.1.24/vimma-bin-0.1.24-1-x86_64.pkg.tar.zst 302
+/arch/x86_64/vimma-bin-0.1.24-1-x86_64.pkg.tar.zst.sig https://github.com/vimma-browser/vimma/releases/download/v0.1.24/vimma-bin-0.1.24-1-x86_64.pkg.tar.zst.sig 302
