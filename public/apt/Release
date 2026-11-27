@@ -1,8 +1,8 @@
 Architectures: amd64
-Date: Wed, 25 Nov 2026 11:58:50 +0000
+Date: Fri, 27 Nov 2026 04:58:28 +0000
 Description: Vimma, a keyboard-first browser
 Label: Vimma
 Origin: Vimma
 SHA256:
- e4c4c5a5b0412ab785739f101c5bb64622df98b684398a2fa54da41f773bda38             1093 Packages
- 0dc87dd1e48c76ef74da04ad609fe95062dbe3531ae696ec4d658764c8826537              636 Packages.gz
+ cc584af4b5e58d90996763ea094b70eff288ad886aceb6c6da1e0643c6ca450b             2186 Packages
+ b19177823ce98e10150c9cf7cd9f73b925c0ebe55fb4e0b1ad61debf54904bf3              726 Packages.gz
